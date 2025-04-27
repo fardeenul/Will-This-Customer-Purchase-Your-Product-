@@ -20,7 +20,7 @@ The main goals are:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Library Used
 - Python
 - Pandas
 - NumPy
